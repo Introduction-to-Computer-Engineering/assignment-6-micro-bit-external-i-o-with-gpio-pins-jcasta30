@@ -90,3 +90,8 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 ### Description
 
 TODO: Your project description, in your own words. _Clarity and grammatical correctness are required._
+
+### Videos
+
+Video #1 (Original.js): https://imgur.com/gallery/JRM1FPH
+Video #2 (new-program.js): https://imgur.com/gallery/Qg1UQk8
