@@ -94,4 +94,5 @@ TODO: Your project description, in your own words. _Clarity and grammatical corr
 ### Videos
 
 Video #1 (Original.js): https://imgur.com/gallery/JRM1FPH
+
 Video #2 (new-program.js): https://imgur.com/gallery/Qg1UQk8
