@@ -89,7 +89,9 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 
 ### Description
 
-TODO: Your project description, in your own words. _Clarity and grammatical correctness are required._
+Project #1 (Original.js): Program cycles through 3 LED lights (Green, Yellow, and Red).
+
+Project #2 (new-program): When button A is pressed, the program will illuminate the Green LED, followed by the Yellow LED, then flash/blink the Yellow & Red LEDs, and finally illuminate the Red LED and stays lit.
 
 ### Videos
 
